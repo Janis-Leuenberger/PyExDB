@@ -1,15 +1,15 @@
---- PyExDB ---
+# --- PyExDB ---
 
 This is a very basic version of a functional database powered by python and excel.
 
 
---- Dependencies ---
+# --- Dependencies ---
 
 - python3.7
 - openpyxl
 - prettytable
 
---- Improvements ---
+# --- Improvements ---
 - rewrite def PrintArray()
 - rewrite def DoSelectFrom()
 - write a parsing algo
